@@ -1,4 +1,4 @@
-name: Run tests on push with all browsers
+name: Run tests on chrome, manual
 on:
   workflow_dispatch:
 
